@@ -1,0 +1,33 @@
+---
+title: "IC8-2: CITI Certification"
+author: "Han Mai"
+date: "2026-10-07"
+format:
+  html:
+    toc: true
+    number-sections: true
+    embed-resources: true
+    theme: cosmo
+    fig-cap-location: bottom
+    grid:
+      body-width: 1000px
+editor: visual
+---
+
+# Certification Completion
+
+I completed the CITI course **CPP - Introduction to Human Subjects 101 (Basic Course)** and received the certificate shown below. The certificate lists my name, Han Mai, and a completion date of **08-Oct-2026**.
+
+# Certificate
+
+![CITI training completion certificate.](images/citi-certificate.png){#fig-citi-certificate width="100%"}
+
+# Verification
+
+Completion can be verified through the [CITI certificate verification page](https://www.citiprogram.org/verify/?wee904bb4-27c2-45d0-9aaf-15300263fc85-80172343).
+
+# Appendix
+
+-   [CITI Certificate Verification](https://www.citiprogram.org/verify/?wee904bb4-27c2-45d0-9aaf-15300263fc85-80172343)
+
+<!-- Add the actual GitHub repository and GitHub Pages report links after local review and approved publication. -->
