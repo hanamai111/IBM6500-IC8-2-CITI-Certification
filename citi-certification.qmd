@@ -28,6 +28,8 @@ Completion can be verified through the [CITI certificate verification page](http
 
 # Appendix
 
--   [CITI Certificate Verification](https://www.citiprogram.org/verify/?wee904bb4-27c2-45d0-9aaf-15300263fc85-80172343)
+-   [GitHub Repository](https://github.com/hanamai111/IBM6500-IC8-2-CITI-Certification)
 
-<!-- Add the actual GitHub repository and GitHub Pages report links after local review and approved publication. -->
+-   [Published CITI Certification Report](https://hanamai111.github.io/IBM6500-IC8-2-CITI-Certification/citi-certification.html)
+
+-   [CITI Certificate Verification](https://www.citiprogram.org/verify/?wee904bb4-27c2-45d0-9aaf-15300263fc85-80172343)
